@@ -41,8 +41,6 @@
 // Conditional layer only when we have less thumb keys
 
     keymap {
-        compatible = "zmk,keymap";
-
         base_layer {
             label = "Base";
             bindings = <
